@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/689344187392589845.png" height="1000px"/></a></p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/689344187392589845)](https://discord.com/users/689344187392589845)
 
 ![](https://komarev.com/ghpvc/?username=workframes)
 
