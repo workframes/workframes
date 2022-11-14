@@ -4,6 +4,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/689344187392589845)](https://discord.com/users/689344187392589845)
 
 
-<!--<img src="https://discord.c99.nl/widget/theme-3/966925920898252812.png" align="center"></a> -->
-
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workframes&layout=compact&theme=dark"<p align="center">
